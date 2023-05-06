@@ -3,6 +3,9 @@
 This is the backend side for my interesting PET project.  
 For the other parts, please use the following links:
 
+- [Frontend](https://github.com/csipkek98/FAM-frontend)
+- [Scraper](https://github.com/csipkek98/FAM-scraper)
+
 ## About the project
 The project is meant to be a "home page" for my friend group. It contains a News page, where we can find news related to gaming and a "Free game" page, where I use an API to get data from games that are free to play.
 
